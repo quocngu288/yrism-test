@@ -1,0 +1,26 @@
+# Logs
+yrism-test/logs
+yrism-test/*.log
+yrism-test/npm-debug.log*
+yrism-test/yarn-debug.log*
+yrism-test/yarn-error.log*
+yrism-test/pnpm-debug.log*
+yrism-test/lerna-debug.log*
+
+yrism-test/node_modules
+yrism-test/dist
+yrism-test/dist-ssr
+yrism-test/*.local
+
+# Editor directories and files
+yrism-test/.vscode/*
+yrism-test/!.vscode/extensions.json
+yrism-test/.idea
+yrism-test/.DS_Store
+yrism-test/*.suo
+yrism-test/*.ntvs*
+yrism-test/*.njsproj
+yrism-test/*.sln
+yrism-test/*.sw?
+
+server/node_modules
